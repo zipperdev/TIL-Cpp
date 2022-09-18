@@ -1,0 +1,5 @@
+# ninja log v5
+1	277	1663470447122986750	CMakeFiles/cpp_example.dir/bruh.cpp.o	a69074b696902e04
+267	296	1663477789405707912	cpp_example	7c8ed2c7b30d81c8
+0	267	1663477789375393177	CMakeFiles/cpp_example.dir/main.cpp.o	85ab3d816e5a2cb5
+0	45	1663477810264442379	build.ninja	a207ebfba6238c6f
